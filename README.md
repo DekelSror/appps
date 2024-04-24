@@ -27,3 +27,6 @@ make .apk file
 publish to store
 register a user
 get payment from user
+
+### links
+- [Google Firebase Android Quickstart](https://github.com/firebase/quickstart-android)
