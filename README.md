@@ -10,9 +10,20 @@
 		- check how to make sales, discounts, subsriptions
 
 ### more - 
-	monitoring - where
-	ads - how to enable / config
-	QR code / invites / shares
+	- monitoring - where
+	- ads - how to enable / config
+	- QR code / invites / shares
+
+### stack and tools
+	- choose cloud service - auth, db built in
+	- build / pack tools to generate .apk files
+	- tools to publish to stores
 
 ### dev goals - 
 	have a framework to streamline future apps development
+
+### phases -
+make .apk file
+publish to store
+register a user
+get payment from user
